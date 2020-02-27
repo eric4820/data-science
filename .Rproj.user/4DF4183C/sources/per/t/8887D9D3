@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582784313755.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1200901012",
+    "id" : "8887D9D3",
+    "lastKnownWriteTime" : 1582722970,
+    "last_content_update" : 1582722970,
+    "path" : "~/FINAL_PROJECT/HOTEL_BOOKING_PROJECT.Rmd",
+    "project_path" : "HOTEL_BOOKING_PROJECT.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

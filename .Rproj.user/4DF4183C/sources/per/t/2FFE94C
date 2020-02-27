@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582698162009.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2FFE94C",
+    "lastKnownWriteTime" : 3548067076488918113,
+    "last_content_update" : 1582698162009,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3B8A66A2",
+        "caption" : "REQUIRED_PARKING_SPACES_PER_CUSTOMER_IN_RELATION_TO_NO_ADULTS",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=REQUIRED_PARKING_SPACES_PER_CUSTOMER_IN_RELATION_TO_NO_ADULTS&cache_key=3B8A66A2",
+        "displayedObservations" : "2",
+        "environment" : "",
+        "expression" : "REQUIRED_PARKING_SPACES_PER_CUSTOMER_IN_RELATION_TO_NO_ADULTS",
+        "object" : "REQUIRED_PARKING_SPACES_PER_CUSTOMER_IN_RELATION_TO_NO_ADULTS",
+        "preview" : "0",
+        "totalObservations" : "2",
+        "variables" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
